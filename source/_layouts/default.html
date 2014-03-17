@@ -4,7 +4,9 @@
   <nav role="navigation">{% include navigation.html %}</nav>
   <div class="container">
     <div class="row-fluid">
-      {{ content | expand_urls: root_url }}
+      <div class="col col-lg-10 col-lg-offset-1">
+        {{ content | expand_urls: root_url }}
+      </div>
     </div>
   </div>
   <footer role="contentinfo" class="page-footer">{% include footer.html %}</footer>
