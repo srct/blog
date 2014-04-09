@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: SRCT Notes
-subtitle: Notes for meetings
+url: http://blog.srct.gmu.edu
+title: SRCT Blog
+subtitle: Throughts from SRCT
 author: Mason SRCT
 simple_search:
 description:
